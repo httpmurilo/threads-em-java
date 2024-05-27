@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff095851-9b67-461f-a275-b30a54c5d542" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/threads/TarefaMultiplicacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threads/AcaoBotao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/AcaoBotao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threads/AcaoBotao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threads/TelaCalculador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
