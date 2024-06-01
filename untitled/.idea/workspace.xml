@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff095851-9b67-461f-a275-b30a54c5d542" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threads/AcaoBotao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threads/TelaCalculador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../banheiro/src/Banheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../banheiro/src/TarefaNumero1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../banheiro/src/TarefaNumero2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../busca-textual/assinaturas1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../busca-textual/src/assinaturas1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../busca-textual/assinaturas2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../busca-textual/src/assinaturas2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../busca-textual/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../busca-textual/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../busca-textual/src/TarefaBuscaTextual.java" beforeDir="false" afterPath="$PROJECT_DIR$/../busca-textual/src/TarefaBuscaTextual.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -39,18 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Estudos/threads/untitled/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Estudos/threads/untitled/jpanel",
+    "onboarding.tips.debug.path": "D:/Estudos/threads/untitled/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
