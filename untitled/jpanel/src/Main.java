@@ -1,6 +1,7 @@
 import threads.Lista;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -9,7 +10,7 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
 
 
-        List<String> lista = new ArrayList<>();
+        List<String> lista = Collections.synchronizedList(new ArrayList<String>());
 
 
 

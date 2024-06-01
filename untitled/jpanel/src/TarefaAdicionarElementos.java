@@ -7,7 +7,7 @@ public class TarefaAdicionarElementos implements Runnable {
     private List<String> lista;
     private int numeroThread;
 
-    public TarefaAdicionarElementos(List<String> lista, int numeroThread) {
+    public  TarefaAdicionarElementos(List<String> lista, int numeroThread) {
         this.lista = lista;
         this.numeroThread = numeroThread;
     }
